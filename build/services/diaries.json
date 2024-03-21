@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2021-07-30",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": " It was a rainy day."
+    },
+    {
+        "id": 2,
+        "date": "2021-08-06",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "It was a sunny day. The visibility was good and the weather was warm."
+    },
+    {
+        "id": 3,
+        "date": "2021-09-15",
+        "weather": "cloudy",
+        "visibility": "great",
+        "comment": "The sky was cloudy but the weather was great!"
+    }
+]
